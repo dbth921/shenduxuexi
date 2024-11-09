@@ -1,0 +1,11 @@
+names:
+  - Title
+  - Test
+  - Figure
+  - Foot
+  - Header
+nc: 5
+path: "D:/shenduxuexi"
+train: "D:/shenduxuexi/train/images"
+val: "D:/shenduxuexi/valid/images"
+test: "D:/shenduxuexi/test/images"
